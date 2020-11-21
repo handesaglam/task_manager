@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "281973754089",
+    "firebase_url": "https://piton-26.firebaseio.com",
+    "project_id": "piton-26",
+    "storage_bucket": "piton-26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281973754089:android:57d9dc8eb2d2858f364878",
+        "android_client_info": {
+          "package_name": "com.example.flutterser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281973754089-r8atgsj4i6t3h5m0u4tn8gm9t3gpeqvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBeMZSJMHwQIqfYbT354c-8DTEgeHypJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281973754089-r8atgsj4i6t3h5m0u4tn8gm9t3gpeqvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
